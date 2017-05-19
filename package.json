@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dhavalsoni2001/ImagePicker.git"
+    "url": "git+https://github.com/hmtylmz/ImagePicker"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -27,7 +27,7 @@
   "author": "Dhaval Soni",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dhavalsoni2001/ImagePicker/issues"
+    "url": "https://github.com/hmtylmz/ImagePicker/issues"
   },
-  "homepage": "https://github.com/dhavalsoni2001/ImagePicker#readme"
+  "homepage": "https://github.com/hmtylmz/ImagePicker#readme"
 }
